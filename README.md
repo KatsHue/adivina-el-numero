@@ -1,10 +1,10 @@
 <div align="center">
 
-<h2 align="center">Adivina el Número</h2>h2>
+<h2 align="center">Adivina el Número</h2>
 
 Minijuego web interactivo en JavaScript donde el jugador debe adivinar un número aleatorio entre 1 y 100. <br> Clase: Programación para Internet 2025B
 
-<a href="" target="_blank"><strong>🎯 Demo </strong></a>
+<a href="https://katshue.github.io/adivina-el-numero/" target="_blank"><strong>🎯 Demo </strong></a>
 
 </div>
 
