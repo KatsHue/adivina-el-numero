@@ -17,9 +17,9 @@ Minijuego web interactivo en JavaScript donde el jugador debe adivinar un númer
   - Si el número es demasiado alto o demasiado bajo.
   - Los números que ya se han intentado.
 - El juego termina cuando:
-  - El jugador acierta, o
+  - El jugador acierta
   - Se acaban los intentos.
-- Al final, el jugador puede reiniciar el juego.
+- Al final el jugador puede reiniciar el juego.
 
 ## Capturas
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e69a319b-bb8e-4781-a22b-90bf3e871435" />
